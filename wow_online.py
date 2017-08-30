@@ -19,5 +19,5 @@ for i in range(4):
     test.append(onlinePlayets['data']['wows'])
     outfile.write(test)
     print(test[i])
-
+1
 outfile.close()

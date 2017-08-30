@@ -17,7 +17,7 @@ for i in range(4):
     r = requests.get(Get[i])
     onlinePlayets = r.json()
     test.append(onlinePlayets['data']['wows'])
-    outfile.write(test)
     print(test[i])
-1
-outfile.close()
+'''
+pppoooooo
+'''
